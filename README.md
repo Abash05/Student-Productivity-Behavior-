@@ -1,2 +1,2 @@
 # Student-Productivity-Behavior-
-Data Science Spring 2026 Project
+Data Science & AI Club Kaggle Team Spring 2026 Project
