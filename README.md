@@ -21,3 +21,10 @@ The objective was to move beyond simple linear correlations and uncover the hidd
 - **Language:** Python 3
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
 
+## Final Conclusion
+
+This project explored how students' daily habits, digital behavior, and academic routines relate to their overall academic performance. Rather than treating any single behavior as the deciding factor in student success, the analysis shows that academic performance is influenced by a combination of factors such as study habits, class attendance, assignment completion, motivation, sleep, and digital activity.
+
+The exploratory analysis also highlights why looking beyond simple correlations is important. Student behavior is complex, and habits such as smartphone use, social media, gaming, studying, and sleep can interact with one another rather than affecting grades independently. By examining these relationships and preparing the data for predictive modeling, the project provides a foundation for identifying behavioral patterns associated with different levels of academic performance.
+
+Ultimately, the project demonstrates how data science can be used to transform everyday student habits into measurable patterns. These insights could be expanded in future work with additional models, feature engineering, and larger or real-world datasets to better determine which combinations of habits are most strongly associated with academic success.
